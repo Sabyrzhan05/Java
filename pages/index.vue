@@ -65,5 +65,3 @@ const lakes = ref<Lake[]>([
   
 ])
 </script>
-
-
